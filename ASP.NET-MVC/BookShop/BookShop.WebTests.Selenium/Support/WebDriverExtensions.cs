@@ -23,6 +23,7 @@ namespace BookShop.WebTests.Selenium.Support
             {
                 control.Clear();
                 wait.Until(_ => String.IsNullOrEmpty(control.GetAttribute("value")));
+                
             }
             
             control.SendKeys(value);

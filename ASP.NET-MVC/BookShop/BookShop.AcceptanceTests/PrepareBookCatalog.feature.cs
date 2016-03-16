@@ -104,7 +104,7 @@ this.ScenarioSetup(scenarioInfo);
                         "David Chelimsky",
                         "The RSpec Book",
                         "17.50"});
-#line 6
+#line 7
  testRunner.Given("the following books", ((string)(null)), table1, "Given ");
 #line hidden
             this.ScenarioCleanup();

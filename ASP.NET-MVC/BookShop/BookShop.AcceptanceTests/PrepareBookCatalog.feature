@@ -3,6 +3,7 @@
 
 
 Scenario: Setup basic example books
+	
 	Given the following books
          | Author                         | Title                          | Price |
          | Gojko Adzic                    | Bridging the Communication Gap | 12.20 |
